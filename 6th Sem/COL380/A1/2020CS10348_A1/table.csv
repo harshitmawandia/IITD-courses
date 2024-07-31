@@ -1,0 +1,5 @@
+Non-0 input blocks,Non-0 output blocks,2 cores,4 cores,8 cores,12 cores
+2^10,2^11,2.11,1.29,0.71,0.65
+2^15,2^15,72.23,39.47,22.11,13.38
+2^20,2^22,NA,NA,524.12,342.38
+2^25,2^26,NA,NA ,NA,NA
