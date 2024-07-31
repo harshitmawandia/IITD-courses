@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exercise1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

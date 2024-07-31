@@ -1,0 +1,846 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" >
+    <meta http-equiv="keywords" content="">
+    <meta name="description" content="Profile information" >
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:url" content="https://inf.ethz.ch/people/person-detail.steger.html" />
+    <meta property="og:title" content="Steger, Angelika, Prof. Dr. | ETH Zurich" />
+    <meta property="og:description" content="Profile information" />
+    <meta property="og:image" content="/content/specialinterest/infk/department/en/people/person-detail.person_image.jpeg?persid=MTA2NTQ5" /><meta name="Systemueberwachung" content="ETHZ" >
+    <meta name="ethz_lmd" content="2020-02-24T15:53:39.762Z" >
+
+
+    <meta name="pagetype" content="web" />
+
+<link rel="shortcut icon" href="https://ethz.ch/etc/designs/ethz/img/icons/black.ico"/>
+
+
+<link rel="stylesheet" href="/etc/designs/ethz/css.css" type="text/css">
+<link rel="stylesheet" href="/etc/clientlibs/ethz/components.css" type="text/css">
+<script src="/etc/designs/ethz/js/default.js"></script>
+<script src="/etc/clientlibs/ethz/components.js"></script>
+
+
+<meta name="msapplication-TileColor" content="#215CAF">
+    <meta name="theme-color" content="#215CAF">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#215CAF-translucent">
+    <meta name="apple-mobile-web-app-title" content="Person detail – Department of Computer Science | ETH Zurich">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link rel="apple-touch-icon-precomposed" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/58-Settings.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/72-hdpi.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/76-iPad-(@1x).png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/120-iPhone.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/144-xxhdpi.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/152-iPad.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/180-iPhone-6-Plus.png">
+    <link rel="icon" sizes="192x192" href="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/192-xxxhpdi.png">
+    <meta name="msapplication-TileImage" content="https://ethz.ch/etc/designs/ethz/img/icons/ETH-APP-Icons-Theme-eth-blue/144-xxhdpi.png">
+
+    <title>Steger, Angelika, Prof. Dr. | ETH Zurich</title>
+    </head><body class="people_details eth-blue">
+    <!-- skipLinks -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="skipLinksDiv">
+        <ul id="skipLinks">
+
+            <li data-order="0"><a accesskey="0" href="" id="activateScreenReaderMode">Press Enter to activate screen reader mode.</a></li>
+            <li data-order="1"><a accesskey="1" href="/" class="accesskey" title="Directly go to the homepage">Homepage</a></li>
+            <li data-order="2"><a accesskey="2" href="#navList" class="accesskey" title="Directly go to the navigation">Navigation</a></li>
+            <li data-order="3"><a accesskey="3" href="https://inf.ethz.ch/utils/search.html" class="accesskey" title="Directly go to the search">Search</a></li>
+            <li data-order="4"><a accesskey="4" href="#content" class="accesskey" title="Directly go to the content">Content</a></li>
+            <li data-order="5"><a accesskey="5" href="#footer" class="accesskey" title="Directly go to the footer">Footer</a></li>
+
+
+
+
+
+
+
+
+
+                <li data-order="6">
+                    <a accesskey="6" href="/utils/contact" class="accesskey" title="Directly go to the contact">
+                      Contact
+                    </a>
+                </li>
+
+
+
+
+
+                    <li data-order="7"><a accesskey="7" href="/content/specialinterest/infk/department/en/footer/sitemap.html" class="accesskey" title="Sitemap">Sitemap</a></li>
+
+
+
+        </ul>
+</div>
+
+<div class="site-wrapper">
+        <!-- header -->
+        <header class="site-header header--with-department-breadcrumb">
+    <div id="userStatusBar" style="display: none;"></div>
+<script type="text/javascript">
+    jQuery(document).ready(function loadStatusbar() {
+      var statusbar = $('#userStatusBar');
+      if (!ETHZ_Design.Impersonation.isImpersonationOverlayOpen(statusbar)) {
+          var sbLoaded = $.ajax({
+              type:     'GET',
+              dataType: 'HTML',
+              cache:    false,
+              url:      '/people/person-detail/_jcr_content.statusbar.html',
+              success:  function (response) {
+                  if (response) {
+                    if (response.lastIndexOf("</" + "html" + ">") != -1) {
+                        // We got a complete HTML document -> replace whole document
+                        document.open("text/html","replace");
+                        document.write(response);
+                        document.close();
+                      } else {
+                          statusbar.html(response);
+                          ETHZ_Design.DropDown.register(statusbar);
+                          ETHZ_Design.Impersonation.register(statusbar);
+
+                          $('body').addClass('loggedin');
+                          statusbar.show();
+
+                          // Remove the login link when logged in
+                          $('a.login').remove();
+
+                          eth.mobileNavPosition();
+                      }
+                  }
+                },
+
+
+
+          });
+
+      }
+
+    });
+</script><div class="header__logos header__container">
+        <a href="https://ethz.ch/en.html" title="ETH Zurich homepage">
+            <img src="https://ethz.ch/etc/designs/ethz/img/header/ethz_logo_black.svg" id="Logo" alt="Logo of ETH Zurich, to homepage"/>
+        </a>
+        <div class="header__headlines">
+        <h2 class="header__headline--big">
+            <a href="/" title="Home">
+                Department of Computer Science
+</a>
+        </h2>
+    </div>
+</div>
+
+    <!-- navigation -->
+    <div id="navTopRoot" class="header__nav-primary eth-blue">
+    <div class="header__navbar header__container">
+        <nav id="nav-primary" aria-labelledby="header__nav-primary-label" class="nav-primary js-nav-primary">
+            <h1 id="header__nav-primary-label" class="hidden">Main Navigation</h1>
+            <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="nav-primary--inner" class="header__mobile-nav-trigger header__mobile-only js-header__mobile-nav-trigger">
+                <span aria-hidden="true" class="header__mobile-nav-icon"></span>
+                Menu</button>
+            <div id="nav-primary--inner" class="header__nav-level header__nav-level--root js-header__nav-level--root">
+                <h1 class="screenreader">Navigation Area</h1>
+                <!-- navigation -->
+
+
+<ul id="navList" data-current="navitem2748143084">
+    <li id="navitem3070459218" class="header__mobile-only to-homepage">
+              <a href="/">
+                Homepage</a>
+            </li>
+        <li id="navitem2482808396" data-groupCodes="" class="">
+          <a href="/news-and-events.html">
+              News and Events</a>
+        </li>
+        <li id="navitem2521722927" data-groupCodes="" class="">
+          <a href="/department.html">
+              Department</a>
+        </li>
+        <li id="navitem2748143084" data-groupCodes="" class="">
+          <a href="/people.html">
+              People</a>
+        </li>
+        <li id="navitem3150283192" data-groupCodes="" class="">
+          <a href="/research.html">
+              Research</a>
+        </li>
+        <li id="navitem2390218858" data-groupCodes="" class="">
+          <a href="/studies.html">
+              Studies</a>
+        </li>
+        <li id="navitem2079499414" data-groupCodes="" class="">
+          <a href="/doctorate.html">
+              Doctorate</a>
+        </li>
+        <li id="navitem2502509916" data-groupCodes="" class="">
+          <a href="/continuing-education.html">
+              Continuing Education</a>
+        </li>
+        </ul>
+<div class="header__mobile-only">
+                        <hr>
+                        <h3 class="header__nav-primary-title">Services</h3>
+                        <ul>
+	    <li>
+        <a href="https://ethz.ch/students/en.html" title="Information for students of ETH Zurich">Student portal</a>
+    </li>
+<li>
+        <a href="https://www.alumni.ethz.ch/en/" title="Website of the ETH Alumni association">Alumni association</a>
+    </li>
+<li>
+            <a href="https://ethz.ch/services/en.html" title="Go to the Services & resources platform">
+                Services & resources</a>
+        </li>
+	    <li>
+	            <a class="contact" href="/utils/contact" title="Open contact information">
+	                Contact</a>
+	        </li>
+	    <li>
+	        <a class="footer__login-link" href="/login/en.html?resource=%2Fcontent%2Fspecialinterest%2Finfk%2Fdepartment%2Fen%2Fpeople%2Fperson-detail.html" title="Login with ETH user account">
+        <span aria-hidden="true" class="material-icons">lock</span>
+        <span class="footer__login-text">Login</span>
+    </a>
+</li>
+	</ul>
+</div>
+                </div>
+        </nav>
+        <div
+    id="search-input"
+    data-init="searchInput"
+    data-nav-id="nav-primary"
+    data-search-url="/.ethz_search.html"
+    data-suggestions-url="/bin/ethz/search/suggest.json"
+    data-website-title="<p>Department of Computer Science</p>
+"
+    data-show-filter="true">
+</div><div class="header__language header__mobile-only">
+            <label for="lang-selector" class="hidden">
+            en</label>
+        <select id="lang-selector" class="custom-select custom-select--link custom-select--dark">
+            <option value="en" selected="selected">
+                en</option>
+            <option value="/de/personen/person-detail.steger.html">
+                    de</option>
+            </select>
+    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+      jQuery(document).ready(function() {
+          $.ajax({
+              type:     'GET',
+              dataType: 'HTML',
+              url:      '/.navigation.html',
+              success:  function(response) {
+                  if (response) {
+                      var currentNodeId = $('#navList').attr("data-current");
+
+                      if (response.lastIndexOf("</" + "html" + ">") != -1) {
+                          // We got a complete HTML document -> replace whole document
+                          document.open("text/html","replace");
+                          document.write(response);
+                          document.close();
+                      } else {
+                          $('#navList').replaceWith(response);
+                      }
+
+                      var ua = window.navigator.userAgent;
+                      var msie = ua.indexOf("MSIE ");
+
+                      // Init MobileNav unless is Internet Explorer
+                      if (!(msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))) {
+	                      const mobileNav = new MobileNav(currentNodeId);
+	                      mobileNav.init();
+	                  }
+
+                      $('.js-header__nav-level--root').accessibleMegaMenu({
+                        // enables left/right navigation within mega menu.
+                        // you must add this class to the HTML.
+                        panelGroupClass: 'js-sub-nav-group',
+                      });
+
+                      // remove login link when already logged in
+                      if($('#userStatusBar:visible').length) {
+                          $('a.login').remove();
+                      }
+                  }
+              }
+          });
+      });
+  </script>
+<div class="header__nav-meta header__desktop-only">
+        <div class="header__container">
+            <nav aria-labelledby="header__departments-title" class="header__departments">
+                <h2 id="header__departments-title" class="hidden">
+                    Departments</h2>
+                <ul>
+                    <li class="item--organization">
+                        <a href="https://ethz.ch/en.html" title="ETH Zurich homepage">
+                            ETH Zurich</a>
+                        <span aria-hidden="true" class="material-icons">chevron_right</span>
+                        </li>
+                    <!-- breadcrumb -->
+                            <li>
+        <a title="D-INFK" href="/">
+            D-INFK</a>
+        </li>
+</ul>
+            </nav>
+            <nav aria-labelledby="header__services-title" class="header__services">
+                <h2 id="header__services-title" class="hidden">Language Selection</h2>
+                <ul>
+                    <li>
+                        <label for="lang-selector-long" class="hidden">
+            en</label>
+        <select id="lang-selector-long" class="custom-select custom-select--link custom-select--dark">
+            <option value="en" selected="selected">
+                English</option>
+            <option value="/de/personen/person-detail.steger.html">
+                    Deutsch</option>
+            </select>
+    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header><!-- container -->
+        <!-- content -->
+<section id="content" class="site-content">
+    <!-- breadcrumb -->
+    <nav class="breadcrumb " role="navigation" aria-label="Breadcrumb">
+        <div class="breadcrumb-inner">
+            <h3 id="breadcrumb-heading" class="visually-hidden">
+                 You are here</h3>
+            <ul>
+                <li>
+                    <a href="https://ethz.ch/content/specialinterest/infk/department/en">
+                        Homepage</a>
+                    <span aria-hidden="true" class="material-icons">chevron_right</span>
+                </li>
+                <li role="presentation">
+                        <a href="/people.html">
+                                  People</a>
+                              <span aria-hidden="true" class="material-icons">chevron_right</span>
+                            </li>
+                <li role="presentation">
+                        <a href="#" aria-current="page">Person detail</a>
+                            </li>
+                </ul>
+        </div>
+    </nav>
+
+
+    <div id="contentContainer" class="site-content__wrapper site-content--with-sidebar">
+
+        <!-- START main content -->
+        <section class="content-main hyphenate" id="contentMain">
+
+
+<div class="listinfo personlistinfo basecomponent"><div class="personinfo">
+    <h1 class="donthyphenate">Steger, Angelika, Prof. Dr.</h1>
+          <div class="personinfo__vitae vitae">
+    <figure class="grid_2">
+            <img alt="Prof. Dr.  Angelika Steger" src="/people/person-detail.person_image.jpeg?persid=MTA2NTQ5"/>
+        </figure>
+    <div class="vcard grid_2">
+        <div class="org alignTop">
+            <h2>Address</h2>
+            <p class="organization-name">ETH Zürich</p>
+            <a href="http://www.inf.ethz.ch/" class="eth-link printlink">Dep. of Computer Science</a>
+                    </div>
+        <div class="org noSpacing">
+            <p class="contact-name donthyphenate">Prof. Dr.  Angelika Steger</p>
+            <p class="organization-unit">
+	               <a href="http://www.ti.inf.ethz.ch/" class="eth-link printlink">Inst. f. Theoretische Informatik</a>
+	            </p>
+               </div>
+        <div class="adr">
+            <p class="building-name">
+                    <a href="http://www.mapsearch.ethz.ch/map.do?farbcode=c000&gebaeudeMap=CAB&amp;" class="eth-link printlink">CAB</a>
+                <a href="/utils/floorplan?building=CAB&floor=G&room=37.2" class="eth-link printlink">G&#160;37.2</a>
+                </p>
+            <p class="street-address">Universitätstrasse 6</p>
+            <span class="postal-code">8092</span>
+            <span class="locality">Zürich</span>
+            <p class="country">Switzerland</p>
+        </div>
+    </div>
+    <div class="adr clearfloat">
+        <ul class="contactlist donthyphenate">
+            <li class="tel">
+	               <span class="type hidden">Work</span>
+	               <a href="tel:+41446320497" class="eth-link has-icon-before">
+                  <span aria-hidden="true" class="material-icons">phone</span>
+                  +41 44 632 04 97</a>
+	            </li>
+            <li class="fax">
+	               <span class="type hidden">Fax</span>
+	               <a href="tel:+41446321399" class="eth-link has-icon-before">
+                  <span aria-hidden="true" class="material-icons">print</span>
+                  +41 44 632 13 99</a>
+               </li>
+            <li class="tel">
+	               <a href="tel:+41446327401" class="eth-link has-icon-before">
+                  <span aria-hidden="true" class="material-icons">phone</span>
+                  +41 44 632 74 01</a>
+                 <span class="type hidden">Secretariat</span>(Sec.)</li>
+            <li class="email">
+               <script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%63%6c%61%73%73%3d%22%65%74%68%2d%6c%69%6e%6b%20%68%61%73%2d%69%63%6f%6e%2d%62%65%66%6f%72%65%20%70%72%69%6e%74%6c%69%6e%6b%22%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%73%74%65%67%65%72%40%69%6e%66%2e%65%74%68%7a%2e%63%68%22%20%74%69%74%6c%65%3d%22%4d%61%69%6c%22%3e%3c%73%70%61%6e%20%61%72%69%61%2d%68%69%64%64%65%6e%3d%22%74%72%75%65%22%20%63%6c%61%73%73%3d%22%6d%61%74%65%72%69%61%6c%2d%69%63%6f%6e%73%22%3e%65%6d%61%69%6c%3c%2f%73%70%61%6e%3e%73%74%65%67%65%72%40%69%6e%66%2e%65%74%68%7a%2e%63%68%3c%2f%61%3e%27%29'))</script></li>
+            <li>
+                  <a href="http://www.cadmo.ethz.ch/as/people/professor/asteger/index" class="eth-link has-icon-before" title="Web">
+                    <span aria-hidden="true" class="material-icons">web_asset</span>
+                    www.cadmo.ethz.ch/as/people/professor/asteger/index</a>
+                </li>
+            <li>
+               <a href="/people/person-detail/Steger.vcard.vcf?persid=MTA2NTQ5&addressType=5" class="eth-link has-icon-before" title="V-Card">
+                  <span aria-hidden="true" class="material-icons">contacts</span>
+                  V-Card (vcf, 1kb)
+               </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="personinfo__sections">
+    <h2>Additional information</h2>
+    <div class="personinfo__section personinfo__section--cv">
+		            <div class="textimage__wrapper">
+                    <div class="personinfo text-image">
+    		                <h3>Curriculum Vitae</h3>
+    		                <p>Angelika Steger has been Full Professor for Computer Science at the Institute of Theoretical Computer Science at ETH Zurich since October 2003.</p>
+<p>Angelika Steger studied mathematics in Freiburg and Heidelberg and obtained a Master's degree in Applied Mathematics at the State University of New York at Stony Brook in 1985. In 1990 she completed her doctorate &nbsp;at the University of Bonn. She then held positions at the Universities of Kiel, Duisburg and TU München before she became a full professor at the Institute of Theoretical Computer Science at ETH Zürich in October 2003. &nbsp;Since 2009 she is also a fellow at Collegium Helveticum. From 2005 to 2013, she served on the board of the research council of the Swiss National Science Foundation. 2007 she was elected member of the German Academy of Sciences Leopoldina. In 2014, she was invited to give a talk at the International Congress of Mathematicians in Seoul, Korea.</p>
+<p>Her main research interests are probabilistic methods and randomized algorithms, graph theory, analysis of discrete structures and combinatorial optimization.</p></div>
+		            </div>
+		        </div>
+    		<div class="personinfo__section personinfo__section--semester">
+                <h3>Course Catalogue</h3>
+<div class="table-matrix">
+<h4>Spring Semester 2022</h4>
+	<table class="col-header no-border university-calender">
+	    <colgroup>
+	        <col class="col1">
+	        <col class="col3">
+	    </colgroup>
+	    <thead>
+	        <tr class="last-child">
+	            <th scope="col">Number</th>
+	            <th scope="col">Unit</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr class="trSubtext">
+		            <td>252-0030-00L</td>
+		            <td>
+		                <a href="http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=157731&lang=en" class="eth-link printlink" title="252-0030-00L">Algorithms and Probability</a>
+		            </td>
+		        </tr>
+	        <tr class="trSubtext">
+		            <td>252-4102-00L</td>
+		            <td>
+		                <a href="http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=158710&lang=en" class="eth-link printlink" title="252-4102-00L">Seminar on Randomized Algorithms and Probabilistic Methods</a>
+		            </td>
+		        </tr>
+	        <tr class="trSubtext">
+		            <td>252-4202-00L</td>
+		            <td>
+		                <a href="http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=158456&lang=en" class="eth-link printlink" title="252-4202-00L">Seminar in Theoretical Computer Science</a>
+		            </td>
+		        </tr>
+	        <tr class="trSubtext">
+		            <td>252-4225-00L</td>
+		            <td>
+		                <a href="http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=157140&lang=en" class="eth-link printlink" title="252-4225-00L">Presenting Theoretical Computer Science</a>
+		            </td>
+		        </tr>
+	        </tbody>
+	</table>
+</div></div>
+    </div><!-- person info editor -->
+    </div></div>
+
+
+
+        </section>
+        <!-- END main content -->
+
+        <!-- contentSidebar -->
+        <aside class="content-sidebar hyphenate" role="complementary">
+
+
+
+
+
+<h1 class="screenreader">Additional Information</h1>
+
+<div class="orgbox basecomponent"><!-- no box -->
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </aside>
+    </div>
+
+</section><div class="siblingNav sibling basecomponent"><div id="sibling-nav" data-init="siblingNav" data-is="SiblingNav">
+  </div></div>
+<!-- footer -->
+        <footer id="footer" class="site-footer">
+    <div class="footer__container">
+        <h2 class="visually-hidden">
+            Footer</h2>
+        <nav aria-labelledby="footer-highlighted-heading" class="footer__highlighted">
+        <h3 id="footer-highlighted-heading" class="visually-hidden">
+            Highlighted Links
+        </h3>
+        <ul>
+            <li class="">
+                    <a href="https://inf.sp.ethz.ch/" title="D-INFK Intranet">D-INFK intranet</a>
+                </li>
+            <li class="">
+                    <a href="/communication-services.html" title="Communications services">Communication services</a>
+                </li>
+            </ul>
+    </nav>
+<div class="footer__row-main">
+            <div class="footer__row-main__inner footer__row">
+                <div class="footer__search-and-social">
+                    <div aria-labelledby="footer-search-heading" role="search" class="footer__search">
+                        <h3 id="footer-search-heading" class="footer__section-title">
+                            Search</h3>
+                        <div class="site-search">
+                            <form action="/people/person-detail/.ethz_search.html" method="GET" accept-charset="UTF-8">
+                                <label for="searchinput" class="hidden">Keyword or person</label>
+                                <input type="text" id="searchinput" placeholder="Keyword or person"
+                                    data-placeholder="Keyword or person" name="search" aria-required="false" class="searchinput">
+                                <span aria-hidden="true" class="material-icons searchsubmit">search</span>
+                                <input type="hidden" name="language" value="en" />
+                            </form>
+                        </div>
+
+                    </div>
+                    <nav aria-labelledby="footer-social-heading" class="footer__social">
+                            <h3 id="footer-social-heading" class="footer__section-title">
+                                Follow us</h3>
+                            <ul class="social-icons">
+			                    <li>
+		                                <a href="https://www.facebook.com/ETHInformatik/" class="social-icon" title="Visit Facebook"><img src="https://ethz.ch/etc/designs/ethz/img/icons/svg/facebook-white.svg" alt="Visit Facebook"></a>
+		                                    </li>
+			                    <li>
+		                                <a href="https://twitter.com/csateth" class="social-icon" title="Visit Twitter"><img src="https://ethz.ch/etc/designs/ethz/img/icons/svg/twitter-white.svg" alt="Visit Twitter"></a>
+		                                    </li>
+			                    <li>
+		                                <a href="https://www.youtube.com/user/ETHInformatik" class="social-icon" title="Visit YouTube"><img src="https://ethz.ch/etc/designs/ethz/img/icons/svg/youtube-white.svg" alt="Visit YouTube"></a>
+		                                    </li>
+			                    <li>
+		                                <a href="https://www.linkedin.com/school/csateth" class="social-icon" title="Visit LinkedIn"><img src="https://ethz.ch/etc/designs/ethz/img/icons/svg/linkedin-white.svg" alt="Visit LinkedIn"></a>
+		                                    </li>
+			                    </ul>
+                        </nav>
+                    </div>
+
+                <nav aria-labelledby="footer-services-heading" class="footer__services">
+	                  <h3 id="footer-services-heading" class="footer__section-title">
+	                      Services</h3>
+	                  <ul>
+	    <li>
+        <a href="https://ethz.ch/students/en.html" title="Information for students of ETH Zurich">Student portal</a>
+    </li>
+<li>
+        <a href="https://www.alumni.ethz.ch/en/" title="Website of the ETH Alumni association">Alumni association</a>
+    </li>
+<li>
+            <a href="https://ethz.ch/services/en.html" title="Go to the Services & resources platform">
+                Services & resources</a>
+        </li>
+	    <li>
+	            <a class="contact" href="/utils/contact" title="Open contact information">
+	                Contact</a>
+	        </li>
+	    <li>
+	        <a class="footer__login-link" href="/login/en.html?resource=%2Fcontent%2Fspecialinterest%2Finfk%2Fdepartment%2Fen%2Fpeople%2Fperson-detail.html" title="Login with ETH user account">
+        <span aria-hidden="true" class="material-icons">lock</span>
+        <span class="footer__login-text">Login</span>
+    </a>
+</li>
+	</ul>
+</nav>
+                </div>
+        </div>
+
+
+
+
+
+    <nav aria-labelledby="footer-departments-heading" class="footer__departments footer-accordion-mobile js-footer-accordion-mobile">
+        <div class="footer__section-title footer-accordion-mobile__trigger js-footer-accordion-mobile__trigger">
+            <h3 id="footer-departments-heading">
+                Departments
+            </h3>
+        </div>
+        <div class="footer__row footer-accordion-mobile__content">
+            <ul class="items">
+
+
+                        <li class="item">
+                            <a href="https://arch.ethz.ch/en" title="D-ARCH">
+                                <span class="item__title">D-ARCH</span>
+                                <span class="item__subtitle">Architecture</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://baug.ethz.ch/en/" title="D-BAUG">
+                                <span class="item__title">D-BAUG</span>
+                                <span class="item__subtitle">Civil, Environmental and Geomatic Engineering</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://biol.ethz.ch/en/" title="D-BIOL">
+                                <span class="item__title">D-BIOL</span>
+                                <span class="item__subtitle">Biology</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://bsse.ethz.ch/" title="D-BSSE">
+                                <span class="item__title">D-BSSE</span>
+                                <span class="item__subtitle">Biosystems Science and Engineering</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://chab.ethz.ch/en/" title="D-CHAB">
+                                <span class="item__title">D-CHAB</span>
+                                <span class="item__subtitle">Chemistry and Applied Biosciences</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://erdw.ethz.ch/en/" title="D-ERDW">
+                                <span class="item__title">D-ERDW</span>
+                                <span class="item__subtitle">Earth Sciences</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://gess.ethz.ch/en/" title="D-GESS">
+                                <span class="item__title">D-GESS</span>
+                                <span class="item__subtitle">Humanities, Social and Political Sciences</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://hest.ethz.ch/en" title="D-HEST">
+                                <span class="item__title">D-HEST</span>
+                                <span class="item__subtitle">Health Sciences and Technology</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="/" title="D-INFK">
+                                <span class="item__title">D-INFK</span>
+                                <span class="item__subtitle">Computer Science</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://ee.ethz.ch/" title="D-ITET">
+                                <span class="item__title">D-ITET</span>
+                                <span class="item__subtitle">Information Technology and Electrical Engineering</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://math.ethz.ch/" title="D-MATH">
+                                <span class="item__title">D-MATH</span>
+                                <span class="item__subtitle">Mathematics</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://mat.ethz.ch/" title="D-MATL">
+                                <span class="item__title">D-MATL</span>
+                                <span class="item__subtitle">Department of Materials</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://mavt.ethz.ch/" title="D-MAVT">
+                                <span class="item__title">D-MAVT</span>
+                                <span class="item__subtitle">Mechanical and Process Engineering</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://mtec.ethz.ch/" title="D-MTEC">
+                                <span class="item__title">D-MTEC</span>
+                                <span class="item__subtitle">Management, Technology and Economics</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://www.phys.ethz.ch/" title="D-PHYS">
+                                <span class="item__title">D-PHYS</span>
+                                <span class="item__subtitle">Physics</span>
+                            </a>
+                        </li>
+
+                        <li class="item">
+                            <a href="https://usys.ethz.ch/en/" title="D-USYS">
+                                <span class="item__title">D-USYS</span>
+                                <span class="item__subtitle">Environmental Systems Science</span>
+                            </a>
+                        </li>
+
+
+            </ul>
+        </div>
+    </nav>
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var toggleAccordion = function(e) {
+                e.preventDefault();
+                $(e.target)
+                    .closest('.js-footer-accordion-mobile')
+                    .toggleClass('is-open-mobile');
+            };
+            $('.js-footer-accordion-mobile__trigger').on('click', toggleAccordion);
+        });
+    </script>
+<nav aria-labelledby="footer-resources-heading" class="footer__row footer__resources">
+                <h3 id="footer-resources-heading" class="visually-hidden">
+                  Resources</h3>
+                <ul>
+                    <li><a href="/footer/sitemap.html" title="Sitemap"> Sitemap</a></li>
+                    <li><a href="/footer/imprint.html" title="Imprint"> Imprint</a></li>
+                    <li><a href="/footer/disclaimer.html" title="Disclaimer"> Disclaimer</a></li>
+                    <li><a href="/footer/copyright.html" title="Copyright"> Copyright</a></li>
+                    <li><a href="/footer/data-protection.html" title="Data protection"> Data protection</a></li>
+                    </ul>
+            </nav>
+        <div class="footer__copyright">
+            &copy; 2021 &nbsp;<a href="http://www.ethz.ch/">Eidgen&ouml;ssische
+                    Technische Hochschule Z&uuml;rich</a>
+        </div>
+    </div>
+</footer>
+</div>
+
+    <!-- lightbox by photoswipe -->
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+
+    <div class="pswp__bg"></div>
+
+
+    <div class="pswp__scroll-wrap">
+
+
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- access statistics -->
+    <!-- Access statistics -->
+		<script type="text/javascript">
+		// ==================================================================
+		// 1. Data Layer, fuer jede Seite anders, von AEM befuellt
+		// ==================================================================
+
+		var DataLayer = {
+		    wt_fpc_domain: '', // Cookie Domain, default ist .ethz.ch
+
+		    site:          'Person detail', // Site name
+		    uri_internal:  'people/person-detail', // interne URL nur ab site root (ohne Sprache)
+		    oss_term:      '', // gesuchter Begriff
+		    oss_results:   '0', // Anzahl Resultate fuer oss_results
+		    oss_engine:    '', // onsite | ethz (default)  --> WT Parameter abfuellen
+            oss_lang:      '', // falls Suche auf Sprache gefiltert: Sprache
+            page_url:      'https://inf.ethz.ch/people/person-detail.html',
+            page_title:    'Person detail', // HTML formatted page title
+		    page_lang:     'en', // Sprache der Seite
+		    page_group:    'people', // Inhaltsgruppe der Seite (Navigation Level 1)
+		    page_subgroup: 'person-detail',  // Inhaltsuntergruppe der Seite (Navigation Level 2)
+		    //visit_ext:   '',   // '0' = internal, '1' = external
+
+		    events:        false  // Steuert, ob Events fuer die aktuelle Seite getrackt werden
+		}
+		</script>
+        <div class="cloudservice generictracker">
+</div>
+
+<script src="https://ethz.ch/etc/designs/ethz/js/tracking.datacollector.js"></script>
+    </body>
+<div id="info-banner">JavaScript has been disabled in your browser</div>
+</html>
